@@ -1,6 +1,8 @@
 # Formação TypeScript Fullstack Developer - DIO
 
-Repositorio dos Desafios de Projeto
+## Repositorio dos Desafios de Projeto
 
-## Tecnologias
-Typescript
+#### Projeto desenvolvido com conceitos básicos de typescript
+
+### Tecnologias
+- Typescript
